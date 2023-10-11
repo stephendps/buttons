@@ -30,7 +30,7 @@
     text-align: center;
   }
   
-  .btn:focus {
+  .btn:hover {
     box-shadow: 0 0px 10px #0005, 0 -0px 50px #fff;
     outline: 7px solid #fff
   }
